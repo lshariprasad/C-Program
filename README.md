@@ -56,6 +56,7 @@ void typeText(const char *text, int speed) {
         Sleep(speed);
     }
 }
+
 int main() {
     system("color 0B"); // Aqua text + black background
     typeText("😈 Welcome to the Realm of C Programming 🔮\n", 40);
