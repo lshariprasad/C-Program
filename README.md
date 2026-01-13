@@ -42,7 +42,7 @@ No GUI. No frameworks. Just **pure logic, memory control, and performance**.
 - 🔒 **Error Handling & Input Validation**  
 - 🌈 **Windows Console Colors** for elegant text visuals  
 
----
+--
 
 ### 🧱 Example Snippet
 
