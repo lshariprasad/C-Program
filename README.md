@@ -7,6 +7,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Think+in+Logic,+Code+in+C.;From+Bits+to+Brilliance.;System+Level+Power,+Programmer+Level+Control.;Code+That+Talks+to+the+Machine.;" alt="Typing Animation" />
 </p>
+
 <p align="center">
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programming.gif" width="300" alt="C Programming GIF">
 </p>
